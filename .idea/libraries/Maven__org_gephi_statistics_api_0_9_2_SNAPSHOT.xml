@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.gephi:statistics-api:0.9.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gephi/statistics-api/0.9.2-SNAPSHOT/statistics-api-0.9.2-20170505.202931-94.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gephi/statistics-api/0.9.2-SNAPSHOT/statistics-api-0.9.2-20170505.202931-94-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gephi/statistics-api/0.9.2-SNAPSHOT/statistics-api-0.9.2-20170505.202931-94-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

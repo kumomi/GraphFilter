@@ -1,0 +1,7 @@
+mvn install:install-file\
+   -Dfile=/home/zhaolianzhou/Documents/2017Semester1/COMP8715/GraphFilter/src/main/java/gephi-toolkit-0.9.1-all.jar\
+   -DgroupId=org.gephi\
+   -DartifactId=gephi-toolkit\
+   -Dversion=0.9.1\
+   -Dpackaging=jar\
+   -DgeneratePom=true

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.gephi:mostrecentfiles-api:0.9.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gephi/mostrecentfiles-api/0.9.2-SNAPSHOT/mostrecentfiles-api-0.9.2-20170505.202801-93.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gephi/mostrecentfiles-api/0.9.2-SNAPSHOT/mostrecentfiles-api-0.9.2-20170505.202801-93-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gephi/mostrecentfiles-api/0.9.2-SNAPSHOT/mostrecentfiles-api-0.9.2-20170505.202801-93-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
